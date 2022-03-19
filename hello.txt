@@ -15,7 +15,13 @@ public class hello
 
 	}
 
-  
+  void newWork()
+	{
+		for(int i =0;i<5; i ++)
+		{
+			print("I am doing lots of work");
+		}
+	}
 
 	public List<Node> getList()
 	{
