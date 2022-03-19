@@ -1,9 +1,12 @@
 public class hello
 {
+
+  static List<Node> a; 
   public static void main(String args[])
 	{
 
-		List<Node> a = new List<Node>();
+		//List<Node> 
+		a = new List<Node>();
 		
 		for(int i =0;i<5; i ++)
 		{
@@ -13,6 +16,16 @@ public class hello
 	}
 
   
+
+	public List<Node> getList()
+	{
+		return a;
+	}
+
+	public void  setList(List<Node> b)
+	{
+		a=b;
+	}
 
   
 }

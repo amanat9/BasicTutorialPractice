@@ -1,0 +1,13 @@
+public class FriendWorking 
+{
+
+	public static void main(String args[])
+	{
+		print("yo its me your friend ")
+		List<Node> cool = Hello.a; // getList();
+		Helloa[0]= new Node(666,666,666);
+		setList(Cool); 
+	}
+
+
+}
