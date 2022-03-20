@@ -32,10 +32,17 @@ public class hello
 	{
 		a=b;
 	}
+
 	void MeDoing()
 	{
 		print(Me doing most of the work); 
 	}
+
+  void FriendDoingwork()
+	{
+		print("I like slacking off");
+        }
+
 
   
 }
